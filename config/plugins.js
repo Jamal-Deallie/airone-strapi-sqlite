@@ -1,7 +1,15 @@
 module.exports = ({ env }) => ({
-    //...
-    'import-export-entries': {
-      enabled: true,
+  //...
+  "import-export-entries": {
+    enabled: true,
+  },
+  transformer: {
+    enabled: true,
+    config: {
+      responseTransforms: {
+        removeAttributesKey: true,
+      },
     },
-    //...
-  });
+  },
+  //...
+});

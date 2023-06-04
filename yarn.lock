@@ -9821,6 +9821,11 @@ strapi-plugin-import-export-entries@^1.19.3:
     node-fetch "2.6.9"
     react-singleton-hook "3.3.0"
 
+strapi-plugin-transformer@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-transformer/-/strapi-plugin-transformer-3.1.0.tgz#903d3288d14607e18d4ea51b673665257488f8f0"
+  integrity sha512-wSWntxTeyx+9gTLsR7/rxAcx13PG+AGaLFUHARXu0cZOeULCtLHTgVbGnn0TvzlL/hUq21IKFZRuGF1amsgrzA==
+
 stream-browserify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-3.0.0.tgz#22b0a2850cdf6503e73085da1fc7b7d0c2122f2f"
